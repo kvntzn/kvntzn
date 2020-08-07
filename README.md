@@ -1,11 +1,11 @@
 ### Hi there, I'm Kevin 👋
 
-## I'm a Developer!
-- 🔭 I’m currently working on a personal project [Quizado][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+## I'm a Developer 💻!
+- 📱 I’m currently working on a personal project [Quizado][website]!
+- 🌱 I’m currently learning up to date technology trends
+- 💂‍ I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar
+- 💥 Fun fact: I love photography and play guitar 
 
 ### Connect with me:
 
