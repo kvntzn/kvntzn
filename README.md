@@ -1,4 +1,4 @@
-    ### Hi there, I'm Kevin 👋
+### Hi there, I'm Kevin 👋
 
 ## I'm a Mobile Developer!
 - 🔭 I’m currently working on a personal project [Quizado][website]!
