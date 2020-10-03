@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin 👋
 
 ## I'm a Developer 💻!
-- 📱 I’m currently working on a personal project [Quizado][website]!
+- 📱 I’m currently playing Angular!
 - 🌱 I’m currently learning up to date technology trends
 - 💂‍ I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
