@@ -30,8 +30,13 @@ I'm a software developer from the Philippines!
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Kevin Tuazon Github Stats](https://readme-stats.warengonzaga.com/api?username=kvntzn&show_icons=true&hide_border=true)](https://github.com/kvntzn/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=kvntzn&show_icons=true&layout=compact&hide_border=true)](https://github.com/kvntzn/github-readme-stats)
+[![Kevin Tuazon Github Stats](https://kvntzn-github-readme-stats.vercel.app/api?username=kvntzn&show_icons=true&hide_border=true)](https://github.com/kvntzn/github-readme-stats) [![Top Language](https://kvntzn-github-readme-stats.vercel.app/api/top-langs?username=kvntzn&show_icons=true&layout=compact&hide_border=true&hide=php&langs_count=8)](https://github.com/kvntzn/github-readme-stats)
 </details>
+
+---
+
+:computer: Made with :heart: by **Kevin Tuazon**
+
 
 [website]: https://kvntzn.github.io
 [linkedin]: https://linkedin.com/in/kevin-tuazon/
