@@ -16,9 +16,8 @@ I'm a software developer from the Philippines!
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
+[![Spotify](https://novatorem.kvntzn.vercel.app/api/spotify)](https://open.spotify.com/user/22thtl7hfddgqx4cz7bctd2za)
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 
 <details>
@@ -31,7 +30,7 @@ I'm a software developer from the Philippines!
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Kevin Tuazon Github Stats](https://readme-stats.warengonzaga.com/api?username=kvntzn&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/kvntzn/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=kvntzn&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/kvntzn/github-readme-stats)
+[![Kevin Tuazon Github Stats](https://readme-stats.warengonzaga.com/api?username=kvntzn&show_icons=true&hide_border=true)](https://github.com/kvntzn/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=kvntzn&show_icons=true&layout=compact&hide_border=true)](https://github.com/kvntzn/github-readme-stats)
 </details>
 
 [website]: https://kvntzn.github.io
