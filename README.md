@@ -1,45 +1,28 @@
-### Hi there, I'm Kevin 👋
 
-## I'm a Developer 💻!
+# Hi, I'm Kevin Tuazon (:coffee::computer::bulb::heart:)
+I'm a software developer from the Philippines!
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevin.tuazonx) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvntzn) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tuazon/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kvntzn) [![Website](https://img.shields.io/website?label=kvntzn&style=for-the-badge&url=https%3A%2F%2Fkvntzn.github.io)](https://kvntzn.github.io)
 - 📱 I’m currently working on JS Frameworks!
 - 🌱 I’m currently learning up to date technology trends
 - 💂‍ I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💥 Fun fact: I love photography and play lead guitar 
 
-### Connect with me:
 
-[<img align="left" alt="kvntzn.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kevin tuazon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## :wrench: Technologies
 
-<br />
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VS](https://img.icons8.com/color/30/visual-studio-2019.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Xamarin](https://img.icons8.com/color/30/xamarin.png)![Kotlin](https://img.icons8.com/color/30/kotlin.png)![SQL](https://img.icons8.com/color/30/sql.png)![Mongo](https://img.icons8.com/color/30/mongodb.png)![Firebase](https://img.icons8.com/color/30/firebase.png)![Azure](https://img.icons8.com/color/30/azure.png)![Android](https://img.icons8.com/color/30/android-os.png)![iOS](https://img.icons8.com/color/30/mac-os.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
 
-### Languages and Tools:
+## :headphones: Spotify Playing
 
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/kotlin/kotlin.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/firebase/firebase.png" />
-<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/xamarin/xamarin.png" />
-<img align="left" alt="Dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />
-<img align="left" alt="aspnet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/aspnet/aspnet.png" />
-<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/azure/azure.png" />
-<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 ---
-
-<img align="left" alt="kvntzn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kvntzn&show_icons=true&hide_border=true" />
+<p><img align="left" alt="kvntzn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kvntzn&show_icons=true&hide_border=true" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvntzn&show_icons=true&locale=en&theme=nord" alt="kvntzn" /></p>
 
 [website]: https://kvntzn.github.io
 [linkedin]: https://linkedin.com/in/kevin-tuazon/
