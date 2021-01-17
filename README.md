@@ -6,7 +6,7 @@ I'm a software developer from the Philippines!
 - 📱 I’m currently working on JS Frameworks!
 - 🌱 I’m currently learning up to date technology trends
 - 💂‍ I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💥 Fun fact: I love photography and play lead guitar 
 
 
