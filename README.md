@@ -7,7 +7,6 @@ I'm a software developer from the Philippines!
 - 🌱 I’m currently learning up to date technology trends
 - 💂‍ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 💥 Fun fact: I love photography and play lead guitar 
 
 
 ## :wrench: Technologies
