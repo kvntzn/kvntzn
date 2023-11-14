@@ -2,7 +2,7 @@
 # Hi, I'm Kevin Tuazon (:coffee::computer::bulb::heart:)
 I'm a Software Engineer from the Philippines!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tuazon/)[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kvntzn) [![Website](https://img.shields.io/website?label=kvntzn&style=for-the-badge&url=https%3A%2F%2Fkvntzn.github.io)](https://tuazonkevin.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tuazon/)[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kvntzn) [![Website](https://img.shields.io/website?label=kvntzn&style=for-the-badge&url=https%3A%2F%2Ftuazonkevin.com)](https://tuazonkevin.com)
 
 ## :wrench: Technologies
 
