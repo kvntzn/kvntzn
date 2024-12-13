@@ -1,5 +1,5 @@
 
-# Hi, I'm Kevin Tuazon (:coffee::computer::bulb::heart:)
+# Hi, I'm Kevin Tuazon ☕💻💡❤️
 I'm a Software Engineer from the Philippines!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tuazon/)[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kvntzn) [![Website](https://img.shields.io/badge/build-kvntzn-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&label=website&labelColor=1A1625&color=1A1625
